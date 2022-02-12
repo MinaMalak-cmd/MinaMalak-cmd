@@ -1,9 +1,9 @@
-- 👋 Hi, I’m MinaMalak
-- telescope I'm working as a Front-end developer at @Eduapplications
+- 👋 Hi, I’m Mina Malak
+- 🔭 I'm working as a Front-end developer at @Eduapplications
 - 👀 I’m interested in React, Javascript, .Net, SQL, .Net Core, CI/CD, Problem Solving, C++, Data Structures, Algorithms
 - 🌱 I’m currently learning Problem Solving, C++, Data Structures, Algorithms
 - I’m looking for help with .Net, problem solving.
-- speech_balloon Ask me about Front-end Web Development , C# and .Net core , Any tech-related stuff.
+- 💬 Ask me about Front-end Web Development , C# and .Net core , Any tech-related stuff.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 https://www.linkedin.com/in/mina-malak-ba7b8a150/
