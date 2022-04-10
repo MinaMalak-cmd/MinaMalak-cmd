@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mina Malak
-- 🔭 I'm working as a Front-end developer at @Eduapplications
+- 🔭 I'm working as a Front-end developer at @Tactful.ai
 - 👀 I’m interested in React, Javascript, .Net, SQL, .Net Core, CI/CD, Problem Solving, C++, Data Structures, Algorithms
 - 🌱 I’m currently learning Problem Solving, C++, Data Structures, Algorithms
 - I’m looking for help with .Net, problem solving.
