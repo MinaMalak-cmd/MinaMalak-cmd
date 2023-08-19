@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mina Malak
-- 🔭 I'm working as a Front-end developer at @Tactful.ai
-- 👀 I’m interested in React, Javascript, .Net, SQL, .Net Core, CI/CD, Problem Solving, C++, Data Structures, Algorithms
+- 🔭 I'm working as a Front-end developer at @Asset Technology Group
+- 👀 I’m interested in React, Node, Javascript, and Typescript
 - 🌱 I’m currently learning Problem Solving, C++, Data Structures, Algorithms
 - I’m looking for help with .Net, problem solving.
 - 💬 Ask me about Front-end Web Development , C# and .Net core , Any tech-related stuff.
